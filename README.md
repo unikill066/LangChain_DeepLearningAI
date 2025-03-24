@@ -27,7 +27,7 @@ This repository hosts code examples exploring key topics such as prompt engineer
 
 1. **Clone the Repository:**
    ```bash
-   [git clone https://github.com/unikill066/LangChain_DeepLearningAI.git
+   git clone https://github.com/unikill066/LangChain_DeepLearningAI.git
    cd LangChain_DeepLearningAI
    ```
 
